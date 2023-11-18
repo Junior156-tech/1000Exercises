@@ -1,0 +1,14 @@
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\9-Sum-Of-N-Numbers\9-Sum-Of-N-Numbers\bin\Debug\net6.0\9-Sum-Of-N-Numbers.exe
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\9-Sum-Of-N-Numbers\9-Sum-Of-N-Numbers\bin\Debug\net6.0\9-Sum-Of-N-Numbers.deps.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\9-Sum-Of-N-Numbers\9-Sum-Of-N-Numbers\bin\Debug\net6.0\9-Sum-Of-N-Numbers.runtimeconfig.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\9-Sum-Of-N-Numbers\9-Sum-Of-N-Numbers\bin\Debug\net6.0\9-Sum-Of-N-Numbers.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\9-Sum-Of-N-Numbers\9-Sum-Of-N-Numbers\bin\Debug\net6.0\9-Sum-Of-N-Numbers.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\9-Sum-Of-N-Numbers\9-Sum-Of-N-Numbers\obj\Debug\net6.0\9-Sum-Of-N-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\9-Sum-Of-N-Numbers\9-Sum-Of-N-Numbers\obj\Debug\net6.0\9-Sum-Of-N-Numbers.AssemblyInfoInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\9-Sum-Of-N-Numbers\9-Sum-Of-N-Numbers\obj\Debug\net6.0\9-Sum-Of-N-Numbers.AssemblyInfo.cs
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\9-Sum-Of-N-Numbers\9-Sum-Of-N-Numbers\obj\Debug\net6.0\9-Sum-Of-N-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\9-Sum-Of-N-Numbers\9-Sum-Of-N-Numbers\obj\Debug\net6.0\9-Sum-Of-N-Numbers.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\9-Sum-Of-N-Numbers\9-Sum-Of-N-Numbers\obj\Debug\net6.0\refint\9-Sum-Of-N-Numbers.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\9-Sum-Of-N-Numbers\9-Sum-Of-N-Numbers\obj\Debug\net6.0\9-Sum-Of-N-Numbers.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\9-Sum-Of-N-Numbers\9-Sum-Of-N-Numbers\obj\Debug\net6.0\9-Sum-Of-N-Numbers.genruntimeconfig.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\9-Sum-Of-N-Numbers\9-Sum-Of-N-Numbers\obj\Debug\net6.0\ref\9-Sum-Of-N-Numbers.dll

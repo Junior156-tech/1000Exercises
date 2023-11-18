@@ -1,0 +1,14 @@
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\23-Guess the number\23-Guess the number\bin\Debug\net6.0\23-Guess the number.exe
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\23-Guess the number\23-Guess the number\bin\Debug\net6.0\23-Guess the number.deps.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\23-Guess the number\23-Guess the number\bin\Debug\net6.0\23-Guess the number.runtimeconfig.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\23-Guess the number\23-Guess the number\bin\Debug\net6.0\23-Guess the number.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\23-Guess the number\23-Guess the number\bin\Debug\net6.0\23-Guess the number.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\23-Guess the number\23-Guess the number\obj\Debug\net6.0\23-Guess the number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\23-Guess the number\23-Guess the number\obj\Debug\net6.0\23-Guess the number.AssemblyInfoInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\23-Guess the number\23-Guess the number\obj\Debug\net6.0\23-Guess the number.AssemblyInfo.cs
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\23-Guess the number\23-Guess the number\obj\Debug\net6.0\23-Guess the number.csproj.CoreCompileInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\23-Guess the number\23-Guess the number\obj\Debug\net6.0\23-Guess the number.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\23-Guess the number\23-Guess the number\obj\Debug\net6.0\refint\23-Guess the number.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\23-Guess the number\23-Guess the number\obj\Debug\net6.0\23-Guess the number.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\23-Guess the number\23-Guess the number\obj\Debug\net6.0\23-Guess the number.genruntimeconfig.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\23-Guess the number\23-Guess the number\obj\Debug\net6.0\ref\23-Guess the number.dll

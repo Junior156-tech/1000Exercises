@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\6-MultiplicationTable\6-MultiplicationTable\bin\Debug\net6.0\6-MultiplicationTable.exe
+C:\Users\junio\source\repos\6-MultiplicationTable\6-MultiplicationTable\bin\Debug\net6.0\6-MultiplicationTable.deps.json
+C:\Users\junio\source\repos\6-MultiplicationTable\6-MultiplicationTable\bin\Debug\net6.0\6-MultiplicationTable.runtimeconfig.json
+C:\Users\junio\source\repos\6-MultiplicationTable\6-MultiplicationTable\bin\Debug\net6.0\6-MultiplicationTable.dll
+C:\Users\junio\source\repos\6-MultiplicationTable\6-MultiplicationTable\bin\Debug\net6.0\6-MultiplicationTable.pdb
+C:\Users\junio\source\repos\6-MultiplicationTable\6-MultiplicationTable\obj\Debug\net6.0\6-MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\6-MultiplicationTable\6-MultiplicationTable\obj\Debug\net6.0\6-MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\6-MultiplicationTable\6-MultiplicationTable\obj\Debug\net6.0\6-MultiplicationTable.AssemblyInfo.cs
+C:\Users\junio\source\repos\6-MultiplicationTable\6-MultiplicationTable\obj\Debug\net6.0\6-MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\6-MultiplicationTable\6-MultiplicationTable\obj\Debug\net6.0\6-MultiplicationTable.dll
+C:\Users\junio\source\repos\6-MultiplicationTable\6-MultiplicationTable\obj\Debug\net6.0\refint\6-MultiplicationTable.dll
+C:\Users\junio\source\repos\6-MultiplicationTable\6-MultiplicationTable\obj\Debug\net6.0\6-MultiplicationTable.pdb
+C:\Users\junio\source\repos\6-MultiplicationTable\6-MultiplicationTable\obj\Debug\net6.0\6-MultiplicationTable.genruntimeconfig.cache
+C:\Users\junio\source\repos\6-MultiplicationTable\6-MultiplicationTable\obj\Debug\net6.0\ref\6-MultiplicationTable.dll

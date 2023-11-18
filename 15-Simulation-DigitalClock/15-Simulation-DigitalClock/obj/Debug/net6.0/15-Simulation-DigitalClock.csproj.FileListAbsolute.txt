@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\15-Simulation-DigitalClock\15-Simulation-DigitalClock\bin\Debug\net6.0\15-Simulation-DigitalClock.exe
+C:\Users\junio\source\repos\15-Simulation-DigitalClock\15-Simulation-DigitalClock\bin\Debug\net6.0\15-Simulation-DigitalClock.deps.json
+C:\Users\junio\source\repos\15-Simulation-DigitalClock\15-Simulation-DigitalClock\bin\Debug\net6.0\15-Simulation-DigitalClock.runtimeconfig.json
+C:\Users\junio\source\repos\15-Simulation-DigitalClock\15-Simulation-DigitalClock\bin\Debug\net6.0\15-Simulation-DigitalClock.dll
+C:\Users\junio\source\repos\15-Simulation-DigitalClock\15-Simulation-DigitalClock\bin\Debug\net6.0\15-Simulation-DigitalClock.pdb
+C:\Users\junio\source\repos\15-Simulation-DigitalClock\15-Simulation-DigitalClock\obj\Debug\net6.0\15-Simulation-DigitalClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\15-Simulation-DigitalClock\15-Simulation-DigitalClock\obj\Debug\net6.0\15-Simulation-DigitalClock.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\15-Simulation-DigitalClock\15-Simulation-DigitalClock\obj\Debug\net6.0\15-Simulation-DigitalClock.AssemblyInfo.cs
+C:\Users\junio\source\repos\15-Simulation-DigitalClock\15-Simulation-DigitalClock\obj\Debug\net6.0\15-Simulation-DigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\15-Simulation-DigitalClock\15-Simulation-DigitalClock\obj\Debug\net6.0\15-Simulation-DigitalClock.dll
+C:\Users\junio\source\repos\15-Simulation-DigitalClock\15-Simulation-DigitalClock\obj\Debug\net6.0\refint\15-Simulation-DigitalClock.dll
+C:\Users\junio\source\repos\15-Simulation-DigitalClock\15-Simulation-DigitalClock\obj\Debug\net6.0\15-Simulation-DigitalClock.pdb
+C:\Users\junio\source\repos\15-Simulation-DigitalClock\15-Simulation-DigitalClock\obj\Debug\net6.0\15-Simulation-DigitalClock.genruntimeconfig.cache
+C:\Users\junio\source\repos\15-Simulation-DigitalClock\15-Simulation-DigitalClock\obj\Debug\net6.0\ref\15-Simulation-DigitalClock.dll

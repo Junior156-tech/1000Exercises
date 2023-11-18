@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\4-triangles\4-triangles\bin\Debug\net6.0\4-triangles.exe
+C:\Users\junio\source\repos\4-triangles\4-triangles\bin\Debug\net6.0\4-triangles.deps.json
+C:\Users\junio\source\repos\4-triangles\4-triangles\bin\Debug\net6.0\4-triangles.runtimeconfig.json
+C:\Users\junio\source\repos\4-triangles\4-triangles\bin\Debug\net6.0\4-triangles.dll
+C:\Users\junio\source\repos\4-triangles\4-triangles\bin\Debug\net6.0\4-triangles.pdb
+C:\Users\junio\source\repos\4-triangles\4-triangles\obj\Debug\net6.0\4-triangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\4-triangles\4-triangles\obj\Debug\net6.0\4-triangles.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\4-triangles\4-triangles\obj\Debug\net6.0\4-triangles.AssemblyInfo.cs
+C:\Users\junio\source\repos\4-triangles\4-triangles\obj\Debug\net6.0\4-triangles.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\4-triangles\4-triangles\obj\Debug\net6.0\4-triangles.dll
+C:\Users\junio\source\repos\4-triangles\4-triangles\obj\Debug\net6.0\refint\4-triangles.dll
+C:\Users\junio\source\repos\4-triangles\4-triangles\obj\Debug\net6.0\4-triangles.pdb
+C:\Users\junio\source\repos\4-triangles\4-triangles\obj\Debug\net6.0\4-triangles.genruntimeconfig.cache
+C:\Users\junio\source\repos\4-triangles\4-triangles\obj\Debug\net6.0\ref\4-triangles.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "25-Upper-And-Lower-CaseColalation/1.0.0": {
+        "runtime": {
+          "25-Upper-And-Lower-CaseColalation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "25-Upper-And-Lower-CaseColalation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

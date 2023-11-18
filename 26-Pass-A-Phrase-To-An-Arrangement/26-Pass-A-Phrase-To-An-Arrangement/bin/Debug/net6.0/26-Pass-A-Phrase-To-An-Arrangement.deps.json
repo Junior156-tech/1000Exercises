@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "26-Pass-A-Phrase-To-An-Arrangement/1.0.0": {
+        "runtime": {
+          "26-Pass-A-Phrase-To-An-Arrangement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "26-Pass-A-Phrase-To-An-Arrangement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

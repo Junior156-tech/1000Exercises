@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\13-Fibonacci\13-Fibonacci\bin\Debug\net6.0\13-Fibonacci.exe
+C:\Users\junio\source\repos\13-Fibonacci\13-Fibonacci\bin\Debug\net6.0\13-Fibonacci.deps.json
+C:\Users\junio\source\repos\13-Fibonacci\13-Fibonacci\bin\Debug\net6.0\13-Fibonacci.runtimeconfig.json
+C:\Users\junio\source\repos\13-Fibonacci\13-Fibonacci\bin\Debug\net6.0\13-Fibonacci.dll
+C:\Users\junio\source\repos\13-Fibonacci\13-Fibonacci\bin\Debug\net6.0\13-Fibonacci.pdb
+C:\Users\junio\source\repos\13-Fibonacci\13-Fibonacci\obj\Debug\net6.0\13-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\13-Fibonacci\13-Fibonacci\obj\Debug\net6.0\13-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\13-Fibonacci\13-Fibonacci\obj\Debug\net6.0\13-Fibonacci.AssemblyInfo.cs
+C:\Users\junio\source\repos\13-Fibonacci\13-Fibonacci\obj\Debug\net6.0\13-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\13-Fibonacci\13-Fibonacci\obj\Debug\net6.0\13-Fibonacci.dll
+C:\Users\junio\source\repos\13-Fibonacci\13-Fibonacci\obj\Debug\net6.0\refint\13-Fibonacci.dll
+C:\Users\junio\source\repos\13-Fibonacci\13-Fibonacci\obj\Debug\net6.0\13-Fibonacci.pdb
+C:\Users\junio\source\repos\13-Fibonacci\13-Fibonacci\obj\Debug\net6.0\13-Fibonacci.genruntimeconfig.cache
+C:\Users\junio\source\repos\13-Fibonacci\13-Fibonacci\obj\Debug\net6.0\ref\13-Fibonacci.dll

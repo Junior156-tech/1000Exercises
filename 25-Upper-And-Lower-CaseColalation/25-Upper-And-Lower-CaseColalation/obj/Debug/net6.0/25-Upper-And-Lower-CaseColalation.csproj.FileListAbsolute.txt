@@ -1,0 +1,14 @@
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\25-Upper-And-Lower-CaseColalation\25-Upper-And-Lower-CaseColalation\bin\Debug\net6.0\25-Upper-And-Lower-CaseColalation.exe
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\25-Upper-And-Lower-CaseColalation\25-Upper-And-Lower-CaseColalation\bin\Debug\net6.0\25-Upper-And-Lower-CaseColalation.deps.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\25-Upper-And-Lower-CaseColalation\25-Upper-And-Lower-CaseColalation\bin\Debug\net6.0\25-Upper-And-Lower-CaseColalation.runtimeconfig.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\25-Upper-And-Lower-CaseColalation\25-Upper-And-Lower-CaseColalation\bin\Debug\net6.0\25-Upper-And-Lower-CaseColalation.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\25-Upper-And-Lower-CaseColalation\25-Upper-And-Lower-CaseColalation\bin\Debug\net6.0\25-Upper-And-Lower-CaseColalation.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\25-Upper-And-Lower-CaseColalation\25-Upper-And-Lower-CaseColalation\obj\Debug\net6.0\25-Upper-And-Lower-CaseColalation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\25-Upper-And-Lower-CaseColalation\25-Upper-And-Lower-CaseColalation\obj\Debug\net6.0\25-Upper-And-Lower-CaseColalation.AssemblyInfoInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\25-Upper-And-Lower-CaseColalation\25-Upper-And-Lower-CaseColalation\obj\Debug\net6.0\25-Upper-And-Lower-CaseColalation.AssemblyInfo.cs
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\25-Upper-And-Lower-CaseColalation\25-Upper-And-Lower-CaseColalation\obj\Debug\net6.0\25-Upper-And-Lower-CaseColalation.csproj.CoreCompileInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\25-Upper-And-Lower-CaseColalation\25-Upper-And-Lower-CaseColalation\obj\Debug\net6.0\25-Upper-And-Lower-CaseColalation.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\25-Upper-And-Lower-CaseColalation\25-Upper-And-Lower-CaseColalation\obj\Debug\net6.0\refint\25-Upper-And-Lower-CaseColalation.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\25-Upper-And-Lower-CaseColalation\25-Upper-And-Lower-CaseColalation\obj\Debug\net6.0\25-Upper-And-Lower-CaseColalation.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\25-Upper-And-Lower-CaseColalation\25-Upper-And-Lower-CaseColalation\obj\Debug\net6.0\25-Upper-And-Lower-CaseColalation.genruntimeconfig.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\25-Upper-And-Lower-CaseColalation\25-Upper-And-Lower-CaseColalation\obj\Debug\net6.0\ref\25-Upper-And-Lower-CaseColalation.dll

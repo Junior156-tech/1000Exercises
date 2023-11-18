@@ -1,0 +1,14 @@
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\10-Greater-and-Less-of-Numbers\10-Greater-and-Less-of-Numbers\bin\Debug\net6.0\10-Greater-and-Less-of-Numbers.exe
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\10-Greater-and-Less-of-Numbers\10-Greater-and-Less-of-Numbers\bin\Debug\net6.0\10-Greater-and-Less-of-Numbers.deps.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\10-Greater-and-Less-of-Numbers\10-Greater-and-Less-of-Numbers\bin\Debug\net6.0\10-Greater-and-Less-of-Numbers.runtimeconfig.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\10-Greater-and-Less-of-Numbers\10-Greater-and-Less-of-Numbers\bin\Debug\net6.0\10-Greater-and-Less-of-Numbers.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\10-Greater-and-Less-of-Numbers\10-Greater-and-Less-of-Numbers\bin\Debug\net6.0\10-Greater-and-Less-of-Numbers.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\10-Greater-and-Less-of-Numbers\10-Greater-and-Less-of-Numbers\obj\Debug\net6.0\10-Greater-and-Less-of-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\10-Greater-and-Less-of-Numbers\10-Greater-and-Less-of-Numbers\obj\Debug\net6.0\10-Greater-and-Less-of-Numbers.AssemblyInfoInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\10-Greater-and-Less-of-Numbers\10-Greater-and-Less-of-Numbers\obj\Debug\net6.0\10-Greater-and-Less-of-Numbers.AssemblyInfo.cs
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\10-Greater-and-Less-of-Numbers\10-Greater-and-Less-of-Numbers\obj\Debug\net6.0\10-Greater-and-Less-of-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\10-Greater-and-Less-of-Numbers\10-Greater-and-Less-of-Numbers\obj\Debug\net6.0\10-Greater-and-Less-of-Numbers.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\10-Greater-and-Less-of-Numbers\10-Greater-and-Less-of-Numbers\obj\Debug\net6.0\refint\10-Greater-and-Less-of-Numbers.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\10-Greater-and-Less-of-Numbers\10-Greater-and-Less-of-Numbers\obj\Debug\net6.0\10-Greater-and-Less-of-Numbers.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\10-Greater-and-Less-of-Numbers\10-Greater-and-Less-of-Numbers\obj\Debug\net6.0\10-Greater-and-Less-of-Numbers.genruntimeconfig.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\10-Greater-and-Less-of-Numbers\10-Greater-and-Less-of-Numbers\obj\Debug\net6.0\ref\10-Greater-and-Less-of-Numbers.dll

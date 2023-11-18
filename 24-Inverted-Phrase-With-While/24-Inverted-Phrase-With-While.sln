@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-Inverted-Phrase-With-While", "24-Inverted-Phrase-With-While\24-Inverted-Phrase-With-While.csproj", "{87CDAC7D-1404-4A0F-A09C-634ACEB674F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87CDAC7D-1404-4A0F-A09C-634ACEB674F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CDAC7D-1404-4A0F-A09C-634ACEB674F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87CDAC7D-1404-4A0F-A09C-634ACEB674F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87CDAC7D-1404-4A0F-A09C-634ACEB674F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0912017-E8EE-4856-83C7-C0ACFD89F6F4}
+	EndGlobalSection
+EndGlobal

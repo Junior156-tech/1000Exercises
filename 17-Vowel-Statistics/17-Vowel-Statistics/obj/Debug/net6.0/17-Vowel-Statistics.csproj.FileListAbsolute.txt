@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\17-Vowel-Statistics\17-Vowel-Statistics\bin\Debug\net6.0\17-Vowel-Statistics.exe
+C:\Users\junio\source\repos\17-Vowel-Statistics\17-Vowel-Statistics\bin\Debug\net6.0\17-Vowel-Statistics.deps.json
+C:\Users\junio\source\repos\17-Vowel-Statistics\17-Vowel-Statistics\bin\Debug\net6.0\17-Vowel-Statistics.runtimeconfig.json
+C:\Users\junio\source\repos\17-Vowel-Statistics\17-Vowel-Statistics\bin\Debug\net6.0\17-Vowel-Statistics.dll
+C:\Users\junio\source\repos\17-Vowel-Statistics\17-Vowel-Statistics\bin\Debug\net6.0\17-Vowel-Statistics.pdb
+C:\Users\junio\source\repos\17-Vowel-Statistics\17-Vowel-Statistics\obj\Debug\net6.0\17-Vowel-Statistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\17-Vowel-Statistics\17-Vowel-Statistics\obj\Debug\net6.0\17-Vowel-Statistics.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\17-Vowel-Statistics\17-Vowel-Statistics\obj\Debug\net6.0\17-Vowel-Statistics.AssemblyInfo.cs
+C:\Users\junio\source\repos\17-Vowel-Statistics\17-Vowel-Statistics\obj\Debug\net6.0\17-Vowel-Statistics.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\17-Vowel-Statistics\17-Vowel-Statistics\obj\Debug\net6.0\17-Vowel-Statistics.dll
+C:\Users\junio\source\repos\17-Vowel-Statistics\17-Vowel-Statistics\obj\Debug\net6.0\refint\17-Vowel-Statistics.dll
+C:\Users\junio\source\repos\17-Vowel-Statistics\17-Vowel-Statistics\obj\Debug\net6.0\17-Vowel-Statistics.pdb
+C:\Users\junio\source\repos\17-Vowel-Statistics\17-Vowel-Statistics\obj\Debug\net6.0\17-Vowel-Statistics.genruntimeconfig.cache
+C:\Users\junio\source\repos\17-Vowel-Statistics\17-Vowel-Statistics\obj\Debug\net6.0\ref\17-Vowel-Statistics.dll

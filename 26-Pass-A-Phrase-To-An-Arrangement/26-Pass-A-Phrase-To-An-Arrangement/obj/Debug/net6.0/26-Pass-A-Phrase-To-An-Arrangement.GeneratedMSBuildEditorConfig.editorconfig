@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _26_Pass_A_Phrase_To_An_Arrangement
+build_property.ProjectDir = C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\26-Pass-A-Phrase-To-An-Arrangement\26-Pass-A-Phrase-To-An-Arrangement\

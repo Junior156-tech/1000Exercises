@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\16-Closed-Vowels\16-Closed-Vowels\bin\Debug\net6.0\16-Closed-Vowels.exe
+C:\Users\junio\source\repos\16-Closed-Vowels\16-Closed-Vowels\bin\Debug\net6.0\16-Closed-Vowels.deps.json
+C:\Users\junio\source\repos\16-Closed-Vowels\16-Closed-Vowels\bin\Debug\net6.0\16-Closed-Vowels.runtimeconfig.json
+C:\Users\junio\source\repos\16-Closed-Vowels\16-Closed-Vowels\bin\Debug\net6.0\16-Closed-Vowels.dll
+C:\Users\junio\source\repos\16-Closed-Vowels\16-Closed-Vowels\bin\Debug\net6.0\16-Closed-Vowels.pdb
+C:\Users\junio\source\repos\16-Closed-Vowels\16-Closed-Vowels\obj\Debug\net6.0\16-Closed-Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\16-Closed-Vowels\16-Closed-Vowels\obj\Debug\net6.0\16-Closed-Vowels.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\16-Closed-Vowels\16-Closed-Vowels\obj\Debug\net6.0\16-Closed-Vowels.AssemblyInfo.cs
+C:\Users\junio\source\repos\16-Closed-Vowels\16-Closed-Vowels\obj\Debug\net6.0\16-Closed-Vowels.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\16-Closed-Vowels\16-Closed-Vowels\obj\Debug\net6.0\16-Closed-Vowels.dll
+C:\Users\junio\source\repos\16-Closed-Vowels\16-Closed-Vowels\obj\Debug\net6.0\refint\16-Closed-Vowels.dll
+C:\Users\junio\source\repos\16-Closed-Vowels\16-Closed-Vowels\obj\Debug\net6.0\16-Closed-Vowels.pdb
+C:\Users\junio\source\repos\16-Closed-Vowels\16-Closed-Vowels\obj\Debug\net6.0\16-Closed-Vowels.genruntimeconfig.cache
+C:\Users\junio\source\repos\16-Closed-Vowels\16-Closed-Vowels\obj\Debug\net6.0\ref\16-Closed-Vowels.dll

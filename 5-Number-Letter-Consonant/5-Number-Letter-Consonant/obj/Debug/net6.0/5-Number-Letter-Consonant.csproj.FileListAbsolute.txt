@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\5-Number-Letter-Consonant\5-Number-Letter-Consonant\bin\Debug\net6.0\5-Number-Letter-Consonant.exe
+C:\Users\junio\source\repos\5-Number-Letter-Consonant\5-Number-Letter-Consonant\bin\Debug\net6.0\5-Number-Letter-Consonant.deps.json
+C:\Users\junio\source\repos\5-Number-Letter-Consonant\5-Number-Letter-Consonant\bin\Debug\net6.0\5-Number-Letter-Consonant.runtimeconfig.json
+C:\Users\junio\source\repos\5-Number-Letter-Consonant\5-Number-Letter-Consonant\bin\Debug\net6.0\5-Number-Letter-Consonant.dll
+C:\Users\junio\source\repos\5-Number-Letter-Consonant\5-Number-Letter-Consonant\bin\Debug\net6.0\5-Number-Letter-Consonant.pdb
+C:\Users\junio\source\repos\5-Number-Letter-Consonant\5-Number-Letter-Consonant\obj\Debug\net6.0\5-Number-Letter-Consonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\5-Number-Letter-Consonant\5-Number-Letter-Consonant\obj\Debug\net6.0\5-Number-Letter-Consonant.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\5-Number-Letter-Consonant\5-Number-Letter-Consonant\obj\Debug\net6.0\5-Number-Letter-Consonant.AssemblyInfo.cs
+C:\Users\junio\source\repos\5-Number-Letter-Consonant\5-Number-Letter-Consonant\obj\Debug\net6.0\5-Number-Letter-Consonant.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\5-Number-Letter-Consonant\5-Number-Letter-Consonant\obj\Debug\net6.0\5-Number-Letter-Consonant.dll
+C:\Users\junio\source\repos\5-Number-Letter-Consonant\5-Number-Letter-Consonant\obj\Debug\net6.0\refint\5-Number-Letter-Consonant.dll
+C:\Users\junio\source\repos\5-Number-Letter-Consonant\5-Number-Letter-Consonant\obj\Debug\net6.0\5-Number-Letter-Consonant.pdb
+C:\Users\junio\source\repos\5-Number-Letter-Consonant\5-Number-Letter-Consonant\obj\Debug\net6.0\5-Number-Letter-Consonant.genruntimeconfig.cache
+C:\Users\junio\source\repos\5-Number-Letter-Consonant\5-Number-Letter-Consonant\obj\Debug\net6.0\ref\5-Number-Letter-Consonant.dll

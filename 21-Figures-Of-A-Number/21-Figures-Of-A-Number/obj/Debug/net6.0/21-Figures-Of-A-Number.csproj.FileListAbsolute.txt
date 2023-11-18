@@ -1,0 +1,14 @@
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\21-Figures-Of-A-Number\21-Figures-Of-A-Number\bin\Debug\net6.0\21-Figures-Of-A-Number.exe
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\21-Figures-Of-A-Number\21-Figures-Of-A-Number\bin\Debug\net6.0\21-Figures-Of-A-Number.deps.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\21-Figures-Of-A-Number\21-Figures-Of-A-Number\bin\Debug\net6.0\21-Figures-Of-A-Number.runtimeconfig.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\21-Figures-Of-A-Number\21-Figures-Of-A-Number\bin\Debug\net6.0\21-Figures-Of-A-Number.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\21-Figures-Of-A-Number\21-Figures-Of-A-Number\bin\Debug\net6.0\21-Figures-Of-A-Number.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\21-Figures-Of-A-Number\21-Figures-Of-A-Number\obj\Debug\net6.0\21-Figures-Of-A-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\21-Figures-Of-A-Number\21-Figures-Of-A-Number\obj\Debug\net6.0\21-Figures-Of-A-Number.AssemblyInfoInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\21-Figures-Of-A-Number\21-Figures-Of-A-Number\obj\Debug\net6.0\21-Figures-Of-A-Number.AssemblyInfo.cs
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\21-Figures-Of-A-Number\21-Figures-Of-A-Number\obj\Debug\net6.0\21-Figures-Of-A-Number.csproj.CoreCompileInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\21-Figures-Of-A-Number\21-Figures-Of-A-Number\obj\Debug\net6.0\21-Figures-Of-A-Number.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\21-Figures-Of-A-Number\21-Figures-Of-A-Number\obj\Debug\net6.0\refint\21-Figures-Of-A-Number.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\21-Figures-Of-A-Number\21-Figures-Of-A-Number\obj\Debug\net6.0\21-Figures-Of-A-Number.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\21-Figures-Of-A-Number\21-Figures-Of-A-Number\obj\Debug\net6.0\21-Figures-Of-A-Number.genruntimeconfig.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\21-Figures-Of-A-Number\21-Figures-Of-A-Number\obj\Debug\net6.0\ref\21-Figures-Of-A-Number.dll

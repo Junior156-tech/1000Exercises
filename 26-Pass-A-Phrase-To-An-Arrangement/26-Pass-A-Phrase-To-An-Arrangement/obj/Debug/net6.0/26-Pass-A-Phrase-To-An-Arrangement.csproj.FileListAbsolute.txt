@@ -1,0 +1,14 @@
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\26-Pass-A-Phrase-To-An-Arrangement\26-Pass-A-Phrase-To-An-Arrangement\bin\Debug\net6.0\26-Pass-A-Phrase-To-An-Arrangement.exe
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\26-Pass-A-Phrase-To-An-Arrangement\26-Pass-A-Phrase-To-An-Arrangement\bin\Debug\net6.0\26-Pass-A-Phrase-To-An-Arrangement.deps.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\26-Pass-A-Phrase-To-An-Arrangement\26-Pass-A-Phrase-To-An-Arrangement\bin\Debug\net6.0\26-Pass-A-Phrase-To-An-Arrangement.runtimeconfig.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\26-Pass-A-Phrase-To-An-Arrangement\26-Pass-A-Phrase-To-An-Arrangement\bin\Debug\net6.0\26-Pass-A-Phrase-To-An-Arrangement.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\26-Pass-A-Phrase-To-An-Arrangement\26-Pass-A-Phrase-To-An-Arrangement\bin\Debug\net6.0\26-Pass-A-Phrase-To-An-Arrangement.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\26-Pass-A-Phrase-To-An-Arrangement\26-Pass-A-Phrase-To-An-Arrangement\obj\Debug\net6.0\26-Pass-A-Phrase-To-An-Arrangement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\26-Pass-A-Phrase-To-An-Arrangement\26-Pass-A-Phrase-To-An-Arrangement\obj\Debug\net6.0\26-Pass-A-Phrase-To-An-Arrangement.AssemblyInfoInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\26-Pass-A-Phrase-To-An-Arrangement\26-Pass-A-Phrase-To-An-Arrangement\obj\Debug\net6.0\26-Pass-A-Phrase-To-An-Arrangement.AssemblyInfo.cs
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\26-Pass-A-Phrase-To-An-Arrangement\26-Pass-A-Phrase-To-An-Arrangement\obj\Debug\net6.0\26-Pass-A-Phrase-To-An-Arrangement.csproj.CoreCompileInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\26-Pass-A-Phrase-To-An-Arrangement\26-Pass-A-Phrase-To-An-Arrangement\obj\Debug\net6.0\26-Pass-A-Phrase-To-An-Arrangement.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\26-Pass-A-Phrase-To-An-Arrangement\26-Pass-A-Phrase-To-An-Arrangement\obj\Debug\net6.0\refint\26-Pass-A-Phrase-To-An-Arrangement.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\26-Pass-A-Phrase-To-An-Arrangement\26-Pass-A-Phrase-To-An-Arrangement\obj\Debug\net6.0\26-Pass-A-Phrase-To-An-Arrangement.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\26-Pass-A-Phrase-To-An-Arrangement\26-Pass-A-Phrase-To-An-Arrangement\obj\Debug\net6.0\26-Pass-A-Phrase-To-An-Arrangement.genruntimeconfig.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\26-Pass-A-Phrase-To-An-Arrangement\26-Pass-A-Phrase-To-An-Arrangement\obj\Debug\net6.0\ref\26-Pass-A-Phrase-To-An-Arrangement.dll

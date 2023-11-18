@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\1-greater than two numbers\1-greater than two numbers\bin\Debug\net6.0\1-greater than two numbers.exe
+C:\Users\junio\source\repos\1-greater than two numbers\1-greater than two numbers\bin\Debug\net6.0\1-greater than two numbers.deps.json
+C:\Users\junio\source\repos\1-greater than two numbers\1-greater than two numbers\bin\Debug\net6.0\1-greater than two numbers.runtimeconfig.json
+C:\Users\junio\source\repos\1-greater than two numbers\1-greater than two numbers\bin\Debug\net6.0\1-greater than two numbers.dll
+C:\Users\junio\source\repos\1-greater than two numbers\1-greater than two numbers\bin\Debug\net6.0\1-greater than two numbers.pdb
+C:\Users\junio\source\repos\1-greater than two numbers\1-greater than two numbers\obj\Debug\net6.0\1-greater than two numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\1-greater than two numbers\1-greater than two numbers\obj\Debug\net6.0\1-greater than two numbers.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\1-greater than two numbers\1-greater than two numbers\obj\Debug\net6.0\1-greater than two numbers.AssemblyInfo.cs
+C:\Users\junio\source\repos\1-greater than two numbers\1-greater than two numbers\obj\Debug\net6.0\1-greater than two numbers.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\1-greater than two numbers\1-greater than two numbers\obj\Debug\net6.0\1-greater than two numbers.dll
+C:\Users\junio\source\repos\1-greater than two numbers\1-greater than two numbers\obj\Debug\net6.0\refint\1-greater than two numbers.dll
+C:\Users\junio\source\repos\1-greater than two numbers\1-greater than two numbers\obj\Debug\net6.0\1-greater than two numbers.pdb
+C:\Users\junio\source\repos\1-greater than two numbers\1-greater than two numbers\obj\Debug\net6.0\1-greater than two numbers.genruntimeconfig.cache
+C:\Users\junio\source\repos\1-greater than two numbers\1-greater than two numbers\obj\Debug\net6.0\ref\1-greater than two numbers.dll

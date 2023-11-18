@@ -1,0 +1,14 @@
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\11-fibonacciSeries\11-fibonacciSeries\bin\Debug\net6.0\11-fibonacciSeries.exe
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\11-fibonacciSeries\11-fibonacciSeries\bin\Debug\net6.0\11-fibonacciSeries.deps.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\11-fibonacciSeries\11-fibonacciSeries\bin\Debug\net6.0\11-fibonacciSeries.runtimeconfig.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\11-fibonacciSeries\11-fibonacciSeries\bin\Debug\net6.0\11-fibonacciSeries.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\11-fibonacciSeries\11-fibonacciSeries\bin\Debug\net6.0\11-fibonacciSeries.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\11-fibonacciSeries\11-fibonacciSeries\obj\Debug\net6.0\11-fibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\11-fibonacciSeries\11-fibonacciSeries\obj\Debug\net6.0\11-fibonacciSeries.AssemblyInfoInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\11-fibonacciSeries\11-fibonacciSeries\obj\Debug\net6.0\11-fibonacciSeries.AssemblyInfo.cs
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\11-fibonacciSeries\11-fibonacciSeries\obj\Debug\net6.0\11-fibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\11-fibonacciSeries\11-fibonacciSeries\obj\Debug\net6.0\11-fibonacciSeries.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\11-fibonacciSeries\11-fibonacciSeries\obj\Debug\net6.0\refint\11-fibonacciSeries.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\11-fibonacciSeries\11-fibonacciSeries\obj\Debug\net6.0\11-fibonacciSeries.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\11-fibonacciSeries\11-fibonacciSeries\obj\Debug\net6.0\11-fibonacciSeries.genruntimeconfig.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\11-fibonacciSeries\11-fibonacciSeries\obj\Debug\net6.0\ref\11-fibonacciSeries.dll

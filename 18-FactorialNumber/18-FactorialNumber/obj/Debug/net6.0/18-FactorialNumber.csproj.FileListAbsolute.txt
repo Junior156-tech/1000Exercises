@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\18-FactorialNumber\18-FactorialNumber\bin\Debug\net6.0\18-FactorialNumber.exe
+C:\Users\junio\source\repos\18-FactorialNumber\18-FactorialNumber\bin\Debug\net6.0\18-FactorialNumber.deps.json
+C:\Users\junio\source\repos\18-FactorialNumber\18-FactorialNumber\bin\Debug\net6.0\18-FactorialNumber.runtimeconfig.json
+C:\Users\junio\source\repos\18-FactorialNumber\18-FactorialNumber\bin\Debug\net6.0\18-FactorialNumber.dll
+C:\Users\junio\source\repos\18-FactorialNumber\18-FactorialNumber\bin\Debug\net6.0\18-FactorialNumber.pdb
+C:\Users\junio\source\repos\18-FactorialNumber\18-FactorialNumber\obj\Debug\net6.0\18-FactorialNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\18-FactorialNumber\18-FactorialNumber\obj\Debug\net6.0\18-FactorialNumber.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\18-FactorialNumber\18-FactorialNumber\obj\Debug\net6.0\18-FactorialNumber.AssemblyInfo.cs
+C:\Users\junio\source\repos\18-FactorialNumber\18-FactorialNumber\obj\Debug\net6.0\18-FactorialNumber.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\18-FactorialNumber\18-FactorialNumber\obj\Debug\net6.0\18-FactorialNumber.dll
+C:\Users\junio\source\repos\18-FactorialNumber\18-FactorialNumber\obj\Debug\net6.0\refint\18-FactorialNumber.dll
+C:\Users\junio\source\repos\18-FactorialNumber\18-FactorialNumber\obj\Debug\net6.0\18-FactorialNumber.pdb
+C:\Users\junio\source\repos\18-FactorialNumber\18-FactorialNumber\obj\Debug\net6.0\18-FactorialNumber.genruntimeconfig.cache
+C:\Users\junio\source\repos\18-FactorialNumber\18-FactorialNumber\obj\Debug\net6.0\ref\18-FactorialNumber.dll

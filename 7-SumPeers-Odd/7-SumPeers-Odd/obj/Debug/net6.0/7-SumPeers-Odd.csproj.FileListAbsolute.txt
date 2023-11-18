@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\7-SumPeers-Odd\7-SumPeers-Odd\bin\Debug\net6.0\7-SumPeers-Odd.exe
+C:\Users\junio\source\repos\7-SumPeers-Odd\7-SumPeers-Odd\bin\Debug\net6.0\7-SumPeers-Odd.deps.json
+C:\Users\junio\source\repos\7-SumPeers-Odd\7-SumPeers-Odd\bin\Debug\net6.0\7-SumPeers-Odd.runtimeconfig.json
+C:\Users\junio\source\repos\7-SumPeers-Odd\7-SumPeers-Odd\bin\Debug\net6.0\7-SumPeers-Odd.dll
+C:\Users\junio\source\repos\7-SumPeers-Odd\7-SumPeers-Odd\bin\Debug\net6.0\7-SumPeers-Odd.pdb
+C:\Users\junio\source\repos\7-SumPeers-Odd\7-SumPeers-Odd\obj\Debug\net6.0\7-SumPeers-Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\7-SumPeers-Odd\7-SumPeers-Odd\obj\Debug\net6.0\7-SumPeers-Odd.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\7-SumPeers-Odd\7-SumPeers-Odd\obj\Debug\net6.0\7-SumPeers-Odd.AssemblyInfo.cs
+C:\Users\junio\source\repos\7-SumPeers-Odd\7-SumPeers-Odd\obj\Debug\net6.0\7-SumPeers-Odd.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\7-SumPeers-Odd\7-SumPeers-Odd\obj\Debug\net6.0\7-SumPeers-Odd.dll
+C:\Users\junio\source\repos\7-SumPeers-Odd\7-SumPeers-Odd\obj\Debug\net6.0\refint\7-SumPeers-Odd.dll
+C:\Users\junio\source\repos\7-SumPeers-Odd\7-SumPeers-Odd\obj\Debug\net6.0\7-SumPeers-Odd.pdb
+C:\Users\junio\source\repos\7-SumPeers-Odd\7-SumPeers-Odd\obj\Debug\net6.0\7-SumPeers-Odd.genruntimeconfig.cache
+C:\Users\junio\source\repos\7-SumPeers-Odd\7-SumPeers-Odd\obj\Debug\net6.0\ref\7-SumPeers-Odd.dll

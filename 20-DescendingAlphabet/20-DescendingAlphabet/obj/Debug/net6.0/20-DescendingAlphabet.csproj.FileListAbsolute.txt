@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\20-DescendingAlphabet\20-DescendingAlphabet\bin\Debug\net6.0\20-DescendingAlphabet.exe
+C:\Users\junio\source\repos\20-DescendingAlphabet\20-DescendingAlphabet\bin\Debug\net6.0\20-DescendingAlphabet.deps.json
+C:\Users\junio\source\repos\20-DescendingAlphabet\20-DescendingAlphabet\bin\Debug\net6.0\20-DescendingAlphabet.runtimeconfig.json
+C:\Users\junio\source\repos\20-DescendingAlphabet\20-DescendingAlphabet\bin\Debug\net6.0\20-DescendingAlphabet.dll
+C:\Users\junio\source\repos\20-DescendingAlphabet\20-DescendingAlphabet\bin\Debug\net6.0\20-DescendingAlphabet.pdb
+C:\Users\junio\source\repos\20-DescendingAlphabet\20-DescendingAlphabet\obj\Debug\net6.0\20-DescendingAlphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\20-DescendingAlphabet\20-DescendingAlphabet\obj\Debug\net6.0\20-DescendingAlphabet.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\20-DescendingAlphabet\20-DescendingAlphabet\obj\Debug\net6.0\20-DescendingAlphabet.AssemblyInfo.cs
+C:\Users\junio\source\repos\20-DescendingAlphabet\20-DescendingAlphabet\obj\Debug\net6.0\20-DescendingAlphabet.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\20-DescendingAlphabet\20-DescendingAlphabet\obj\Debug\net6.0\20-DescendingAlphabet.dll
+C:\Users\junio\source\repos\20-DescendingAlphabet\20-DescendingAlphabet\obj\Debug\net6.0\refint\20-DescendingAlphabet.dll
+C:\Users\junio\source\repos\20-DescendingAlphabet\20-DescendingAlphabet\obj\Debug\net6.0\20-DescendingAlphabet.pdb
+C:\Users\junio\source\repos\20-DescendingAlphabet\20-DescendingAlphabet\obj\Debug\net6.0\20-DescendingAlphabet.genruntimeconfig.cache
+C:\Users\junio\source\repos\20-DescendingAlphabet\20-DescendingAlphabet\obj\Debug\net6.0\ref\20-DescendingAlphabet.dll

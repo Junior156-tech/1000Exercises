@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\14-random-Numbers-ASCII\14-random-Numbers-ASCII\bin\Debug\net6.0\14-random-Numbers-ASCII.exe
+C:\Users\junio\source\repos\14-random-Numbers-ASCII\14-random-Numbers-ASCII\bin\Debug\net6.0\14-random-Numbers-ASCII.deps.json
+C:\Users\junio\source\repos\14-random-Numbers-ASCII\14-random-Numbers-ASCII\bin\Debug\net6.0\14-random-Numbers-ASCII.runtimeconfig.json
+C:\Users\junio\source\repos\14-random-Numbers-ASCII\14-random-Numbers-ASCII\bin\Debug\net6.0\14-random-Numbers-ASCII.dll
+C:\Users\junio\source\repos\14-random-Numbers-ASCII\14-random-Numbers-ASCII\bin\Debug\net6.0\14-random-Numbers-ASCII.pdb
+C:\Users\junio\source\repos\14-random-Numbers-ASCII\14-random-Numbers-ASCII\obj\Debug\net6.0\14-random-Numbers-ASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\14-random-Numbers-ASCII\14-random-Numbers-ASCII\obj\Debug\net6.0\14-random-Numbers-ASCII.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\14-random-Numbers-ASCII\14-random-Numbers-ASCII\obj\Debug\net6.0\14-random-Numbers-ASCII.AssemblyInfo.cs
+C:\Users\junio\source\repos\14-random-Numbers-ASCII\14-random-Numbers-ASCII\obj\Debug\net6.0\14-random-Numbers-ASCII.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\14-random-Numbers-ASCII\14-random-Numbers-ASCII\obj\Debug\net6.0\14-random-Numbers-ASCII.dll
+C:\Users\junio\source\repos\14-random-Numbers-ASCII\14-random-Numbers-ASCII\obj\Debug\net6.0\refint\14-random-Numbers-ASCII.dll
+C:\Users\junio\source\repos\14-random-Numbers-ASCII\14-random-Numbers-ASCII\obj\Debug\net6.0\14-random-Numbers-ASCII.pdb
+C:\Users\junio\source\repos\14-random-Numbers-ASCII\14-random-Numbers-ASCII\obj\Debug\net6.0\14-random-Numbers-ASCII.genruntimeconfig.cache
+C:\Users\junio\source\repos\14-random-Numbers-ASCII\14-random-Numbers-ASCII\obj\Debug\net6.0\ref\14-random-Numbers-ASCII.dll

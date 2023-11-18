@@ -1,0 +1,14 @@
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\22-Generator-randomNumber-between-10A30\22-Generator-randomNumber-between-10A30\bin\Debug\net6.0\22-Generator-randomNumber-between-10A30.exe
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\22-Generator-randomNumber-between-10A30\22-Generator-randomNumber-between-10A30\bin\Debug\net6.0\22-Generator-randomNumber-between-10A30.deps.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\22-Generator-randomNumber-between-10A30\22-Generator-randomNumber-between-10A30\bin\Debug\net6.0\22-Generator-randomNumber-between-10A30.runtimeconfig.json
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\22-Generator-randomNumber-between-10A30\22-Generator-randomNumber-between-10A30\bin\Debug\net6.0\22-Generator-randomNumber-between-10A30.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\22-Generator-randomNumber-between-10A30\22-Generator-randomNumber-between-10A30\bin\Debug\net6.0\22-Generator-randomNumber-between-10A30.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\22-Generator-randomNumber-between-10A30\22-Generator-randomNumber-between-10A30\obj\Debug\net6.0\22-Generator-randomNumber-between-10A30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\22-Generator-randomNumber-between-10A30\22-Generator-randomNumber-between-10A30\obj\Debug\net6.0\22-Generator-randomNumber-between-10A30.AssemblyInfoInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\22-Generator-randomNumber-between-10A30\22-Generator-randomNumber-between-10A30\obj\Debug\net6.0\22-Generator-randomNumber-between-10A30.AssemblyInfo.cs
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\22-Generator-randomNumber-between-10A30\22-Generator-randomNumber-between-10A30\obj\Debug\net6.0\22-Generator-randomNumber-between-10A30.csproj.CoreCompileInputs.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\22-Generator-randomNumber-between-10A30\22-Generator-randomNumber-between-10A30\obj\Debug\net6.0\22-Generator-randomNumber-between-10A30.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\22-Generator-randomNumber-between-10A30\22-Generator-randomNumber-between-10A30\obj\Debug\net6.0\refint\22-Generator-randomNumber-between-10A30.dll
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\22-Generator-randomNumber-between-10A30\22-Generator-randomNumber-between-10A30\obj\Debug\net6.0\22-Generator-randomNumber-between-10A30.pdb
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\22-Generator-randomNumber-between-10A30\22-Generator-randomNumber-between-10A30\obj\Debug\net6.0\22-Generator-randomNumber-between-10A30.genruntimeconfig.cache
+C:\Users\jcarpenter\OneDrive - Coral Hospitality Corp\22-Generator-randomNumber-between-10A30\22-Generator-randomNumber-between-10A30\obj\Debug\net6.0\ref\22-Generator-randomNumber-between-10A30.dll

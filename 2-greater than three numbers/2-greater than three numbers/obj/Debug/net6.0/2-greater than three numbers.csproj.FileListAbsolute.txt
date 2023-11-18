@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\2-greater than three numbers\2-greater than three numbers\bin\Debug\net6.0\2-greater than three numbers.exe
+C:\Users\junio\source\repos\2-greater than three numbers\2-greater than three numbers\bin\Debug\net6.0\2-greater than three numbers.deps.json
+C:\Users\junio\source\repos\2-greater than three numbers\2-greater than three numbers\bin\Debug\net6.0\2-greater than three numbers.runtimeconfig.json
+C:\Users\junio\source\repos\2-greater than three numbers\2-greater than three numbers\bin\Debug\net6.0\2-greater than three numbers.dll
+C:\Users\junio\source\repos\2-greater than three numbers\2-greater than three numbers\bin\Debug\net6.0\2-greater than three numbers.pdb
+C:\Users\junio\source\repos\2-greater than three numbers\2-greater than three numbers\obj\Debug\net6.0\2-greater than three numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\2-greater than three numbers\2-greater than three numbers\obj\Debug\net6.0\2-greater than three numbers.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\2-greater than three numbers\2-greater than three numbers\obj\Debug\net6.0\2-greater than three numbers.AssemblyInfo.cs
+C:\Users\junio\source\repos\2-greater than three numbers\2-greater than three numbers\obj\Debug\net6.0\2-greater than three numbers.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\2-greater than three numbers\2-greater than three numbers\obj\Debug\net6.0\2-greater than three numbers.dll
+C:\Users\junio\source\repos\2-greater than three numbers\2-greater than three numbers\obj\Debug\net6.0\refint\2-greater than three numbers.dll
+C:\Users\junio\source\repos\2-greater than three numbers\2-greater than three numbers\obj\Debug\net6.0\2-greater than three numbers.pdb
+C:\Users\junio\source\repos\2-greater than three numbers\2-greater than three numbers\obj\Debug\net6.0\2-greater than three numbers.genruntimeconfig.cache
+C:\Users\junio\source\repos\2-greater than three numbers\2-greater than three numbers\obj\Debug\net6.0\ref\2-greater than three numbers.dll
