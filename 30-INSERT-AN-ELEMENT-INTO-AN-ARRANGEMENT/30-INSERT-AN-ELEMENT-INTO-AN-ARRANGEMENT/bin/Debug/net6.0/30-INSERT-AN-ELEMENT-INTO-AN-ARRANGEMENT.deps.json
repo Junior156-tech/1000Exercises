@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT/1.0.0": {
+        "runtime": {
+          "30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

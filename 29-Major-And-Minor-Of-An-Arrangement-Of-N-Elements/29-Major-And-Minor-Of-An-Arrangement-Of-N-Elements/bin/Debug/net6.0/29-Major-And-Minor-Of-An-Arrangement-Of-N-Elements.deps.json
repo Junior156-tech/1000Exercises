@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "29-Major-And-Minor-Of-An-Arrangement-Of-N-Elements/1.0.0": {
+        "runtime": {
+          "29-Major-And-Minor-Of-An-Arrangement-Of-N-Elements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "29-Major-And-Minor-Of-An-Arrangement-Of-N-Elements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
