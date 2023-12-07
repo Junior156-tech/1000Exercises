@@ -1,0 +1,14 @@
+C:\Users\junio\OneDrive\Escritorio\Exercises\8-Succession-Of-N-Frames\8-Succession-Of-N-Frames\bin\Debug\net6.0\8-Succession-Of-N-Frames.exe
+C:\Users\junio\OneDrive\Escritorio\Exercises\8-Succession-Of-N-Frames\8-Succession-Of-N-Frames\bin\Debug\net6.0\8-Succession-Of-N-Frames.deps.json
+C:\Users\junio\OneDrive\Escritorio\Exercises\8-Succession-Of-N-Frames\8-Succession-Of-N-Frames\bin\Debug\net6.0\8-Succession-Of-N-Frames.runtimeconfig.json
+C:\Users\junio\OneDrive\Escritorio\Exercises\8-Succession-Of-N-Frames\8-Succession-Of-N-Frames\bin\Debug\net6.0\8-Succession-Of-N-Frames.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\8-Succession-Of-N-Frames\8-Succession-Of-N-Frames\bin\Debug\net6.0\8-Succession-Of-N-Frames.pdb
+C:\Users\junio\OneDrive\Escritorio\Exercises\8-Succession-Of-N-Frames\8-Succession-Of-N-Frames\obj\Debug\net6.0\8-Succession-Of-N-Frames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Escritorio\Exercises\8-Succession-Of-N-Frames\8-Succession-Of-N-Frames\obj\Debug\net6.0\8-Succession-Of-N-Frames.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Escritorio\Exercises\8-Succession-Of-N-Frames\8-Succession-Of-N-Frames\obj\Debug\net6.0\8-Succession-Of-N-Frames.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Escritorio\Exercises\8-Succession-Of-N-Frames\8-Succession-Of-N-Frames\obj\Debug\net6.0\8-Succession-Of-N-Frames.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Escritorio\Exercises\8-Succession-Of-N-Frames\8-Succession-Of-N-Frames\obj\Debug\net6.0\8-Succession-Of-N-Frames.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\8-Succession-Of-N-Frames\8-Succession-Of-N-Frames\obj\Debug\net6.0\refint\8-Succession-Of-N-Frames.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\8-Succession-Of-N-Frames\8-Succession-Of-N-Frames\obj\Debug\net6.0\8-Succession-Of-N-Frames.pdb
+C:\Users\junio\OneDrive\Escritorio\Exercises\8-Succession-Of-N-Frames\8-Succession-Of-N-Frames\obj\Debug\net6.0\8-Succession-Of-N-Frames.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Escritorio\Exercises\8-Succession-Of-N-Frames\8-Succession-Of-N-Frames\obj\Debug\net6.0\ref\8-Succession-Of-N-Frames.dll
