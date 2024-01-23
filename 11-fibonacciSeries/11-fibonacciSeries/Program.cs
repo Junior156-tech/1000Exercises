@@ -10,6 +10,7 @@ for (int i = 1; i <= num; i++)
 {
     total = currentValue + beforeValue;
     Console.Write(" " + total + " ");
-    beforeValue = total;
 
+    beforeValue = currentValue;
+    currentValue = total;
 }                                                                                                                                                                                               

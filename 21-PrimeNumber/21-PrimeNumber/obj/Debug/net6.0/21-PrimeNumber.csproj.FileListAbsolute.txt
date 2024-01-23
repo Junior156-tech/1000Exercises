@@ -12,3 +12,17 @@ C:\Users\junio\source\repos\21-PrimeNumber\21-PrimeNumber\obj\Debug\net6.0\refin
 C:\Users\junio\source\repos\21-PrimeNumber\21-PrimeNumber\obj\Debug\net6.0\21-PrimeNumber.pdb
 C:\Users\junio\source\repos\21-PrimeNumber\21-PrimeNumber\obj\Debug\net6.0\21-PrimeNumber.genruntimeconfig.cache
 C:\Users\junio\source\repos\21-PrimeNumber\21-PrimeNumber\obj\Debug\net6.0\ref\21-PrimeNumber.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\21-PrimeNumber\21-PrimeNumber\bin\Debug\net6.0\21-PrimeNumber.exe
+C:\Users\junio\OneDrive\Escritorio\Exercises\21-PrimeNumber\21-PrimeNumber\bin\Debug\net6.0\21-PrimeNumber.deps.json
+C:\Users\junio\OneDrive\Escritorio\Exercises\21-PrimeNumber\21-PrimeNumber\bin\Debug\net6.0\21-PrimeNumber.runtimeconfig.json
+C:\Users\junio\OneDrive\Escritorio\Exercises\21-PrimeNumber\21-PrimeNumber\bin\Debug\net6.0\21-PrimeNumber.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\21-PrimeNumber\21-PrimeNumber\bin\Debug\net6.0\21-PrimeNumber.pdb
+C:\Users\junio\OneDrive\Escritorio\Exercises\21-PrimeNumber\21-PrimeNumber\obj\Debug\net6.0\21-PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Escritorio\Exercises\21-PrimeNumber\21-PrimeNumber\obj\Debug\net6.0\21-PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Escritorio\Exercises\21-PrimeNumber\21-PrimeNumber\obj\Debug\net6.0\21-PrimeNumber.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Escritorio\Exercises\21-PrimeNumber\21-PrimeNumber\obj\Debug\net6.0\21-PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Escritorio\Exercises\21-PrimeNumber\21-PrimeNumber\obj\Debug\net6.0\21-PrimeNumber.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\21-PrimeNumber\21-PrimeNumber\obj\Debug\net6.0\refint\21-PrimeNumber.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\21-PrimeNumber\21-PrimeNumber\obj\Debug\net6.0\21-PrimeNumber.pdb
+C:\Users\junio\OneDrive\Escritorio\Exercises\21-PrimeNumber\21-PrimeNumber\obj\Debug\net6.0\21-PrimeNumber.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Escritorio\Exercises\21-PrimeNumber\21-PrimeNumber\obj\Debug\net6.0\ref\21-PrimeNumber.dll

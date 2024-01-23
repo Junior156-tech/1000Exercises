@@ -1,6 +1,4 @@
-﻿
-
-Console.WriteLine("Enter your amount");
+﻿Console.WriteLine("Enter your amount");
 var num =  int.Parse(Console.ReadLine());
 
 int C100 = 100;
@@ -17,9 +15,6 @@ int quantityBills20 = 0;
 int quantityBills10 = 0;
 int quantityBills5 = 0;
 int quantityBills1 = 0;
-
-
-//1650
 
 if(num < 100)
 {
@@ -61,7 +56,6 @@ if (remaining >= C1)
     quantityBills1 = remaining / C1;
     remaining = remaining - (quantityBills5 * C1);
 }
-
 
 Console.WriteLine($"Billetes de 100: {quantityBills100}");
 Console.WriteLine($"Billetes de 50: {quantityBills50}");

@@ -1,0 +1,14 @@
+C:\Users\junio\OneDrive\Escritorio\Exercises\12-Prime-Factors-Of-A-Number\12-Prime-Factors-Of-A-Number\bin\Debug\net6.0\12-Prime-Factors-Of-A-Number.exe
+C:\Users\junio\OneDrive\Escritorio\Exercises\12-Prime-Factors-Of-A-Number\12-Prime-Factors-Of-A-Number\bin\Debug\net6.0\12-Prime-Factors-Of-A-Number.deps.json
+C:\Users\junio\OneDrive\Escritorio\Exercises\12-Prime-Factors-Of-A-Number\12-Prime-Factors-Of-A-Number\bin\Debug\net6.0\12-Prime-Factors-Of-A-Number.runtimeconfig.json
+C:\Users\junio\OneDrive\Escritorio\Exercises\12-Prime-Factors-Of-A-Number\12-Prime-Factors-Of-A-Number\bin\Debug\net6.0\12-Prime-Factors-Of-A-Number.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\12-Prime-Factors-Of-A-Number\12-Prime-Factors-Of-A-Number\bin\Debug\net6.0\12-Prime-Factors-Of-A-Number.pdb
+C:\Users\junio\OneDrive\Escritorio\Exercises\12-Prime-Factors-Of-A-Number\12-Prime-Factors-Of-A-Number\obj\Debug\net6.0\12-Prime-Factors-Of-A-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Escritorio\Exercises\12-Prime-Factors-Of-A-Number\12-Prime-Factors-Of-A-Number\obj\Debug\net6.0\12-Prime-Factors-Of-A-Number.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Escritorio\Exercises\12-Prime-Factors-Of-A-Number\12-Prime-Factors-Of-A-Number\obj\Debug\net6.0\12-Prime-Factors-Of-A-Number.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Escritorio\Exercises\12-Prime-Factors-Of-A-Number\12-Prime-Factors-Of-A-Number\obj\Debug\net6.0\12-Prime-Factors-Of-A-Number.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Escritorio\Exercises\12-Prime-Factors-Of-A-Number\12-Prime-Factors-Of-A-Number\obj\Debug\net6.0\12-Prime-Factors-Of-A-Number.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\12-Prime-Factors-Of-A-Number\12-Prime-Factors-Of-A-Number\obj\Debug\net6.0\refint\12-Prime-Factors-Of-A-Number.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\12-Prime-Factors-Of-A-Number\12-Prime-Factors-Of-A-Number\obj\Debug\net6.0\12-Prime-Factors-Of-A-Number.pdb
+C:\Users\junio\OneDrive\Escritorio\Exercises\12-Prime-Factors-Of-A-Number\12-Prime-Factors-Of-A-Number\obj\Debug\net6.0\12-Prime-Factors-Of-A-Number.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Escritorio\Exercises\12-Prime-Factors-Of-A-Number\12-Prime-Factors-Of-A-Number\obj\Debug\net6.0\ref\12-Prime-Factors-Of-A-Number.dll

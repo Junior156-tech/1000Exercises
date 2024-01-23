@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\junio\\source\\repos\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number.csproj": {}
+    "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number.csproj": {}
   },
   "projects": {
-    "C:\\Users\\junio\\source\\repos\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number.csproj": {
+    "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\source\\repos\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number.csproj",
         "projectName": "12-Prime-Factors-Of-A-Number",
-        "projectPath": "C:\\Users\\junio\\source\\repos\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number.csproj",
+        "projectPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\source\\repos\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number\\obj\\",
+        "outputPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\12-Prime-Factors-Of-A-Number\\12-Prime-Factors-Of-A-Number\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,14 @@
+C:\Users\junio\OneDrive\Escritorio\Exercises\31-Generator-PrimeNumbers\31-Generator-PrimeNumbers\bin\Debug\net7.0\31-Generator-PrimeNumbers.exe
+C:\Users\junio\OneDrive\Escritorio\Exercises\31-Generator-PrimeNumbers\31-Generator-PrimeNumbers\bin\Debug\net7.0\31-Generator-PrimeNumbers.deps.json
+C:\Users\junio\OneDrive\Escritorio\Exercises\31-Generator-PrimeNumbers\31-Generator-PrimeNumbers\bin\Debug\net7.0\31-Generator-PrimeNumbers.runtimeconfig.json
+C:\Users\junio\OneDrive\Escritorio\Exercises\31-Generator-PrimeNumbers\31-Generator-PrimeNumbers\bin\Debug\net7.0\31-Generator-PrimeNumbers.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\31-Generator-PrimeNumbers\31-Generator-PrimeNumbers\bin\Debug\net7.0\31-Generator-PrimeNumbers.pdb
+C:\Users\junio\OneDrive\Escritorio\Exercises\31-Generator-PrimeNumbers\31-Generator-PrimeNumbers\obj\Debug\net7.0\31-Generator-PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Escritorio\Exercises\31-Generator-PrimeNumbers\31-Generator-PrimeNumbers\obj\Debug\net7.0\31-Generator-PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Escritorio\Exercises\31-Generator-PrimeNumbers\31-Generator-PrimeNumbers\obj\Debug\net7.0\31-Generator-PrimeNumbers.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Escritorio\Exercises\31-Generator-PrimeNumbers\31-Generator-PrimeNumbers\obj\Debug\net7.0\31-Generator-PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Escritorio\Exercises\31-Generator-PrimeNumbers\31-Generator-PrimeNumbers\obj\Debug\net7.0\31-Generator-PrimeNumbers.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\31-Generator-PrimeNumbers\31-Generator-PrimeNumbers\obj\Debug\net7.0\refint\31-Generator-PrimeNumbers.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\31-Generator-PrimeNumbers\31-Generator-PrimeNumbers\obj\Debug\net7.0\31-Generator-PrimeNumbers.pdb
+C:\Users\junio\OneDrive\Escritorio\Exercises\31-Generator-PrimeNumbers\31-Generator-PrimeNumbers\obj\Debug\net7.0\31-Generator-PrimeNumbers.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Escritorio\Exercises\31-Generator-PrimeNumbers\31-Generator-PrimeNumbers\obj\Debug\net7.0\ref\31-Generator-PrimeNumbers.dll

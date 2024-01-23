@@ -12,3 +12,17 @@ C:\Users\junio\source\repos\3-Bill Breakdown\3-Bill Breakdown\obj\Debug\net6.0\r
 C:\Users\junio\source\repos\3-Bill Breakdown\3-Bill Breakdown\obj\Debug\net6.0\3-Bill Breakdown.pdb
 C:\Users\junio\source\repos\3-Bill Breakdown\3-Bill Breakdown\obj\Debug\net6.0\3-Bill Breakdown.genruntimeconfig.cache
 C:\Users\junio\source\repos\3-Bill Breakdown\3-Bill Breakdown\obj\Debug\net6.0\ref\3-Bill Breakdown.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\3-Bill Breakdown\3-Bill Breakdown\bin\Debug\net6.0\3-Bill Breakdown.exe
+C:\Users\junio\OneDrive\Escritorio\Exercises\3-Bill Breakdown\3-Bill Breakdown\bin\Debug\net6.0\3-Bill Breakdown.deps.json
+C:\Users\junio\OneDrive\Escritorio\Exercises\3-Bill Breakdown\3-Bill Breakdown\bin\Debug\net6.0\3-Bill Breakdown.runtimeconfig.json
+C:\Users\junio\OneDrive\Escritorio\Exercises\3-Bill Breakdown\3-Bill Breakdown\bin\Debug\net6.0\3-Bill Breakdown.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\3-Bill Breakdown\3-Bill Breakdown\bin\Debug\net6.0\3-Bill Breakdown.pdb
+C:\Users\junio\OneDrive\Escritorio\Exercises\3-Bill Breakdown\3-Bill Breakdown\obj\Debug\net6.0\3-Bill Breakdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Escritorio\Exercises\3-Bill Breakdown\3-Bill Breakdown\obj\Debug\net6.0\3-Bill Breakdown.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Escritorio\Exercises\3-Bill Breakdown\3-Bill Breakdown\obj\Debug\net6.0\3-Bill Breakdown.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Escritorio\Exercises\3-Bill Breakdown\3-Bill Breakdown\obj\Debug\net6.0\3-Bill Breakdown.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Escritorio\Exercises\3-Bill Breakdown\3-Bill Breakdown\obj\Debug\net6.0\3-Bill Breakdown.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\3-Bill Breakdown\3-Bill Breakdown\obj\Debug\net6.0\refint\3-Bill Breakdown.dll
+C:\Users\junio\OneDrive\Escritorio\Exercises\3-Bill Breakdown\3-Bill Breakdown\obj\Debug\net6.0\3-Bill Breakdown.pdb
+C:\Users\junio\OneDrive\Escritorio\Exercises\3-Bill Breakdown\3-Bill Breakdown\obj\Debug\net6.0\3-Bill Breakdown.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Escritorio\Exercises\3-Bill Breakdown\3-Bill Breakdown\obj\Debug\net6.0\ref\3-Bill Breakdown.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\junio\\source\\repos\\3-Bill Breakdown\\3-Bill Breakdown\\3-Bill Breakdown.csproj": {}
+    "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\3-Bill Breakdown\\3-Bill Breakdown\\3-Bill Breakdown.csproj": {}
   },
   "projects": {
-    "C:\\Users\\junio\\source\\repos\\3-Bill Breakdown\\3-Bill Breakdown\\3-Bill Breakdown.csproj": {
+    "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\3-Bill Breakdown\\3-Bill Breakdown\\3-Bill Breakdown.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\source\\repos\\3-Bill Breakdown\\3-Bill Breakdown\\3-Bill Breakdown.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\3-Bill Breakdown\\3-Bill Breakdown\\3-Bill Breakdown.csproj",
         "projectName": "3-Bill Breakdown",
-        "projectPath": "C:\\Users\\junio\\source\\repos\\3-Bill Breakdown\\3-Bill Breakdown\\3-Bill Breakdown.csproj",
+        "projectPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\3-Bill Breakdown\\3-Bill Breakdown\\3-Bill Breakdown.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\source\\repos\\3-Bill Breakdown\\3-Bill Breakdown\\obj\\",
+        "outputPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\3-Bill Breakdown\\3-Bill Breakdown\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",

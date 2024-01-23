@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\junio\\source\\repos\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT.csproj",
+      "projectUniqueName": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT.csproj",
       "projectName": "30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT",
-      "projectPath": "C:\\Users\\junio\\source\\repos\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT.csproj",
+      "projectPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT.csproj",
       "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\junio\\source\\repos\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT\\obj\\",
+      "outputPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT\\30-INSERT-AN-ELEMENT-INTO-AN-ARRANGEMENT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",

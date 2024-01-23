@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jcarpenter\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\junio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jcarpenter\\OneDrive - Coral Hospitality Corp\\24-Inverted-Phrase-With-While\\24-Inverted-Phrase-With-While\\24-Inverted-Phrase-With-While.csproj",
+      "projectUniqueName": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\24-Inverted-Phrase-With-While\\24-Inverted-Phrase-With-While\\24-Inverted-Phrase-With-While.csproj",
       "projectName": "24-Inverted-Phrase-With-While",
-      "projectPath": "C:\\Users\\jcarpenter\\OneDrive - Coral Hospitality Corp\\24-Inverted-Phrase-With-While\\24-Inverted-Phrase-With-While\\24-Inverted-Phrase-With-While.csproj",
-      "packagesPath": "C:\\Users\\jcarpenter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jcarpenter\\OneDrive - Coral Hospitality Corp\\24-Inverted-Phrase-With-While\\24-Inverted-Phrase-With-While\\obj\\",
+      "projectPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\24-Inverted-Phrase-With-While\\24-Inverted-Phrase-With-While\\24-Inverted-Phrase-With-While.csproj",
+      "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\24-Inverted-Phrase-With-While\\24-Inverted-Phrase-With-While\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jcarpenter\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

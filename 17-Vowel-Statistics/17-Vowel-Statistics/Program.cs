@@ -10,28 +10,26 @@ for (int i = 0; i < phrase!.Length; i++)
 {
 	switch (phrase[i])
 	{
-        case 'a':
+        case 'a' or 'A':
             ++A;
             break;
-        case 'e':
+        case 'e' or 'E':
             ++E;
             break;
-        case 'i':
+        case 'i' or 'I':
             ++I;
             break;
-        case 'o':
+        case 'o' or 'O':
             ++O;
             break;
-        case 'u':
+        case 'u' or 'U':
             ++U;
             break;
     }
 
 }
 
-
 Console.WriteLine("The phrase: " + phrase);
-
 Console.WriteLine("EXISTEN {0} VOCALES A", A);
 Console.WriteLine("EXISTEN {0} VOCALES E", E);
 Console.WriteLine("EXISTEN {0} VOCALES I", I);

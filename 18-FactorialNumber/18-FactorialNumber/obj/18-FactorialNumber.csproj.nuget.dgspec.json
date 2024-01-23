@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\junio\\source\\repos\\18-FactorialNumber\\18-FactorialNumber\\18-FactorialNumber.csproj": {}
+    "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\18-FactorialNumber\\18-FactorialNumber\\18-FactorialNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\junio\\source\\repos\\18-FactorialNumber\\18-FactorialNumber\\18-FactorialNumber.csproj": {
+    "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\18-FactorialNumber\\18-FactorialNumber\\18-FactorialNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\source\\repos\\18-FactorialNumber\\18-FactorialNumber\\18-FactorialNumber.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\18-FactorialNumber\\18-FactorialNumber\\18-FactorialNumber.csproj",
         "projectName": "18-FactorialNumber",
-        "projectPath": "C:\\Users\\junio\\source\\repos\\18-FactorialNumber\\18-FactorialNumber\\18-FactorialNumber.csproj",
+        "projectPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\18-FactorialNumber\\18-FactorialNumber\\18-FactorialNumber.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\source\\repos\\18-FactorialNumber\\18-FactorialNumber\\obj\\",
+        "outputPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\18-FactorialNumber\\18-FactorialNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",

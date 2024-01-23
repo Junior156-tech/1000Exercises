@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\junio\\source\\repos\\21-PrimeNumber\\21-PrimeNumber\\21-PrimeNumber.csproj": {}
+    "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\21-PrimeNumber\\21-PrimeNumber\\21-PrimeNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\junio\\source\\repos\\21-PrimeNumber\\21-PrimeNumber\\21-PrimeNumber.csproj": {
+    "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\21-PrimeNumber\\21-PrimeNumber\\21-PrimeNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\source\\repos\\21-PrimeNumber\\21-PrimeNumber\\21-PrimeNumber.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\21-PrimeNumber\\21-PrimeNumber\\21-PrimeNumber.csproj",
         "projectName": "21-PrimeNumber",
-        "projectPath": "C:\\Users\\junio\\source\\repos\\21-PrimeNumber\\21-PrimeNumber\\21-PrimeNumber.csproj",
+        "projectPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\21-PrimeNumber\\21-PrimeNumber\\21-PrimeNumber.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\source\\repos\\21-PrimeNumber\\21-PrimeNumber\\obj\\",
+        "outputPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\21-PrimeNumber\\21-PrimeNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",

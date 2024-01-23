@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\junio\\source\\repos\\20-DescendingAlphabet\\20-DescendingAlphabet\\20-DescendingAlphabet.csproj",
+      "projectUniqueName": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\20-DescendingAlphabet\\20-DescendingAlphabet\\20-DescendingAlphabet.csproj",
       "projectName": "20-DescendingAlphabet",
-      "projectPath": "C:\\Users\\junio\\source\\repos\\20-DescendingAlphabet\\20-DescendingAlphabet\\20-DescendingAlphabet.csproj",
+      "projectPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\20-DescendingAlphabet\\20-DescendingAlphabet\\20-DescendingAlphabet.csproj",
       "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\junio\\source\\repos\\20-DescendingAlphabet\\20-DescendingAlphabet\\obj\\",
+      "outputPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Exercises\\20-DescendingAlphabet\\20-DescendingAlphabet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
