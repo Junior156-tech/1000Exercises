@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\junio\\source\\repos\\33-Palindrome Number\\33-Palindrome Number\\33-Palindrome Number.csproj": {}
+    "C:\\Users\\junio\\OneDrive\\Escritorio\\Carpenter\\Projects\\Csharp\\Console\\Exercises\\33-Palindrome Number\\33-Palindrome Number\\33-Palindrome Number.csproj": {}
   },
   "projects": {
-    "C:\\Users\\junio\\source\\repos\\33-Palindrome Number\\33-Palindrome Number\\33-Palindrome Number.csproj": {
+    "C:\\Users\\junio\\OneDrive\\Escritorio\\Carpenter\\Projects\\Csharp\\Console\\Exercises\\33-Palindrome Number\\33-Palindrome Number\\33-Palindrome Number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\source\\repos\\33-Palindrome Number\\33-Palindrome Number\\33-Palindrome Number.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\OneDrive\\Escritorio\\Carpenter\\Projects\\Csharp\\Console\\Exercises\\33-Palindrome Number\\33-Palindrome Number\\33-Palindrome Number.csproj",
         "projectName": "33-Palindrome Number",
-        "projectPath": "C:\\Users\\junio\\source\\repos\\33-Palindrome Number\\33-Palindrome Number\\33-Palindrome Number.csproj",
+        "projectPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Carpenter\\Projects\\Csharp\\Console\\Exercises\\33-Palindrome Number\\33-Palindrome Number\\33-Palindrome Number.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\source\\repos\\33-Palindrome Number\\33-Palindrome Number\\obj\\",
+        "outputPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Carpenter\\Projects\\Csharp\\Console\\Exercises\\33-Palindrome Number\\33-Palindrome Number\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",

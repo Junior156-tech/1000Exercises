@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\39-Sum-of-two-arrangements-of-5-elements\39-Sum-of-two-arrangements-of-5-elements\bin\Debug\net6.0\39-Sum-of-two-arrangements-of-5-elements.exe
+C:\Users\junio\source\repos\39-Sum-of-two-arrangements-of-5-elements\39-Sum-of-two-arrangements-of-5-elements\bin\Debug\net6.0\39-Sum-of-two-arrangements-of-5-elements.deps.json
+C:\Users\junio\source\repos\39-Sum-of-two-arrangements-of-5-elements\39-Sum-of-two-arrangements-of-5-elements\bin\Debug\net6.0\39-Sum-of-two-arrangements-of-5-elements.runtimeconfig.json
+C:\Users\junio\source\repos\39-Sum-of-two-arrangements-of-5-elements\39-Sum-of-two-arrangements-of-5-elements\bin\Debug\net6.0\39-Sum-of-two-arrangements-of-5-elements.dll
+C:\Users\junio\source\repos\39-Sum-of-two-arrangements-of-5-elements\39-Sum-of-two-arrangements-of-5-elements\bin\Debug\net6.0\39-Sum-of-two-arrangements-of-5-elements.pdb
+C:\Users\junio\source\repos\39-Sum-of-two-arrangements-of-5-elements\39-Sum-of-two-arrangements-of-5-elements\obj\Debug\net6.0\39-Sum-of-two-arrangements-of-5-elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\39-Sum-of-two-arrangements-of-5-elements\39-Sum-of-two-arrangements-of-5-elements\obj\Debug\net6.0\39-Sum-of-two-arrangements-of-5-elements.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\39-Sum-of-two-arrangements-of-5-elements\39-Sum-of-two-arrangements-of-5-elements\obj\Debug\net6.0\39-Sum-of-two-arrangements-of-5-elements.AssemblyInfo.cs
+C:\Users\junio\source\repos\39-Sum-of-two-arrangements-of-5-elements\39-Sum-of-two-arrangements-of-5-elements\obj\Debug\net6.0\39-Sum-of-two-arrangements-of-5-elements.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\39-Sum-of-two-arrangements-of-5-elements\39-Sum-of-two-arrangements-of-5-elements\obj\Debug\net6.0\39-Sum-of-two-arrangements-of-5-elements.dll
+C:\Users\junio\source\repos\39-Sum-of-two-arrangements-of-5-elements\39-Sum-of-two-arrangements-of-5-elements\obj\Debug\net6.0\refint\39-Sum-of-two-arrangements-of-5-elements.dll
+C:\Users\junio\source\repos\39-Sum-of-two-arrangements-of-5-elements\39-Sum-of-two-arrangements-of-5-elements\obj\Debug\net6.0\39-Sum-of-two-arrangements-of-5-elements.pdb
+C:\Users\junio\source\repos\39-Sum-of-two-arrangements-of-5-elements\39-Sum-of-two-arrangements-of-5-elements\obj\Debug\net6.0\39-Sum-of-two-arrangements-of-5-elements.genruntimeconfig.cache
+C:\Users\junio\source\repos\39-Sum-of-two-arrangements-of-5-elements\39-Sum-of-two-arrangements-of-5-elements\obj\Debug\net6.0\ref\39-Sum-of-two-arrangements-of-5-elements.dll

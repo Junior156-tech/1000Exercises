@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\34-Roman to Integer\34-Roman to Integer\obj\Debug\net7.0\34-Roman to Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\34-Roman to Integer\34-Roman to Integer\obj\Debug\net7.0\34-Roman to Integer.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\34-Roman to Integer\34-Roman to Integer\obj\Debug\net7.0\34-Roman to Integer.AssemblyInfo.cs
+C:\Users\junio\source\repos\34-Roman to Integer\34-Roman to Integer\obj\Debug\net7.0\34-Roman to Integer.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\34-Roman to Integer\34-Roman to Integer\bin\Debug\net7.0\34-Roman to Integer.exe
+C:\Users\junio\source\repos\34-Roman to Integer\34-Roman to Integer\bin\Debug\net7.0\34-Roman to Integer.deps.json
+C:\Users\junio\source\repos\34-Roman to Integer\34-Roman to Integer\bin\Debug\net7.0\34-Roman to Integer.runtimeconfig.json
+C:\Users\junio\source\repos\34-Roman to Integer\34-Roman to Integer\bin\Debug\net7.0\34-Roman to Integer.dll
+C:\Users\junio\source\repos\34-Roman to Integer\34-Roman to Integer\bin\Debug\net7.0\34-Roman to Integer.pdb
+C:\Users\junio\source\repos\34-Roman to Integer\34-Roman to Integer\obj\Debug\net7.0\34-Roman to Integer.dll
+C:\Users\junio\source\repos\34-Roman to Integer\34-Roman to Integer\obj\Debug\net7.0\refint\34-Roman to Integer.dll
+C:\Users\junio\source\repos\34-Roman to Integer\34-Roman to Integer\obj\Debug\net7.0\34-Roman to Integer.pdb
+C:\Users\junio\source\repos\34-Roman to Integer\34-Roman to Integer\obj\Debug\net7.0\34-Roman to Integer.genruntimeconfig.cache
+C:\Users\junio\source\repos\34-Roman to Integer\34-Roman to Integer\obj\Debug\net7.0\ref\34-Roman to Integer.dll

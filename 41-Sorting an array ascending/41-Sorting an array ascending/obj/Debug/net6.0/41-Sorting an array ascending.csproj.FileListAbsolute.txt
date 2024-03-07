@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\41-Sorting an array ascending\41-Sorting an array ascending\bin\Debug\net6.0\41-Sorting an array ascending.exe
+C:\Users\junio\source\repos\41-Sorting an array ascending\41-Sorting an array ascending\bin\Debug\net6.0\41-Sorting an array ascending.deps.json
+C:\Users\junio\source\repos\41-Sorting an array ascending\41-Sorting an array ascending\bin\Debug\net6.0\41-Sorting an array ascending.runtimeconfig.json
+C:\Users\junio\source\repos\41-Sorting an array ascending\41-Sorting an array ascending\bin\Debug\net6.0\41-Sorting an array ascending.dll
+C:\Users\junio\source\repos\41-Sorting an array ascending\41-Sorting an array ascending\bin\Debug\net6.0\41-Sorting an array ascending.pdb
+C:\Users\junio\source\repos\41-Sorting an array ascending\41-Sorting an array ascending\obj\Debug\net6.0\41-Sorting an array ascending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\41-Sorting an array ascending\41-Sorting an array ascending\obj\Debug\net6.0\41-Sorting an array ascending.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\41-Sorting an array ascending\41-Sorting an array ascending\obj\Debug\net6.0\41-Sorting an array ascending.AssemblyInfo.cs
+C:\Users\junio\source\repos\41-Sorting an array ascending\41-Sorting an array ascending\obj\Debug\net6.0\41-Sorting an array ascending.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\41-Sorting an array ascending\41-Sorting an array ascending\obj\Debug\net6.0\41-Sorting an array ascending.dll
+C:\Users\junio\source\repos\41-Sorting an array ascending\41-Sorting an array ascending\obj\Debug\net6.0\refint\41-Sorting an array ascending.dll
+C:\Users\junio\source\repos\41-Sorting an array ascending\41-Sorting an array ascending\obj\Debug\net6.0\41-Sorting an array ascending.pdb
+C:\Users\junio\source\repos\41-Sorting an array ascending\41-Sorting an array ascending\obj\Debug\net6.0\41-Sorting an array ascending.genruntimeconfig.cache
+C:\Users\junio\source\repos\41-Sorting an array ascending\41-Sorting an array ascending\obj\Debug\net6.0\ref\41-Sorting an array ascending.dll

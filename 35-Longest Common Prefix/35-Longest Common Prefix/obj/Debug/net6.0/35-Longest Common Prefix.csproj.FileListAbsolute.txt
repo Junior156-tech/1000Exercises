@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\35-Longest Common Prefix\35-Longest Common Prefix\bin\Debug\net6.0\35-Longest Common Prefix.exe
+C:\Users\junio\source\repos\35-Longest Common Prefix\35-Longest Common Prefix\bin\Debug\net6.0\35-Longest Common Prefix.deps.json
+C:\Users\junio\source\repos\35-Longest Common Prefix\35-Longest Common Prefix\bin\Debug\net6.0\35-Longest Common Prefix.runtimeconfig.json
+C:\Users\junio\source\repos\35-Longest Common Prefix\35-Longest Common Prefix\bin\Debug\net6.0\35-Longest Common Prefix.dll
+C:\Users\junio\source\repos\35-Longest Common Prefix\35-Longest Common Prefix\bin\Debug\net6.0\35-Longest Common Prefix.pdb
+C:\Users\junio\source\repos\35-Longest Common Prefix\35-Longest Common Prefix\obj\Debug\net6.0\35-Longest Common Prefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\35-Longest Common Prefix\35-Longest Common Prefix\obj\Debug\net6.0\35-Longest Common Prefix.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\35-Longest Common Prefix\35-Longest Common Prefix\obj\Debug\net6.0\35-Longest Common Prefix.AssemblyInfo.cs
+C:\Users\junio\source\repos\35-Longest Common Prefix\35-Longest Common Prefix\obj\Debug\net6.0\35-Longest Common Prefix.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\35-Longest Common Prefix\35-Longest Common Prefix\obj\Debug\net6.0\35-Longest Common Prefix.dll
+C:\Users\junio\source\repos\35-Longest Common Prefix\35-Longest Common Prefix\obj\Debug\net6.0\refint\35-Longest Common Prefix.dll
+C:\Users\junio\source\repos\35-Longest Common Prefix\35-Longest Common Prefix\obj\Debug\net6.0\35-Longest Common Prefix.pdb
+C:\Users\junio\source\repos\35-Longest Common Prefix\35-Longest Common Prefix\obj\Debug\net6.0\35-Longest Common Prefix.genruntimeconfig.cache
+C:\Users\junio\source\repos\35-Longest Common Prefix\35-Longest Common Prefix\obj\Debug\net6.0\ref\35-Longest Common Prefix.dll

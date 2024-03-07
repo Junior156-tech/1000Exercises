@@ -12,3 +12,17 @@ C:\Users\junio\source\repos\33-Palindrome Number\33-Palindrome Number\obj\Debug\
 C:\Users\junio\source\repos\33-Palindrome Number\33-Palindrome Number\obj\Debug\net7.0\33-Palindrome Number.pdb
 C:\Users\junio\source\repos\33-Palindrome Number\33-Palindrome Number\obj\Debug\net7.0\33-Palindrome Number.genruntimeconfig.cache
 C:\Users\junio\source\repos\33-Palindrome Number\33-Palindrome Number\obj\Debug\net7.0\ref\33-Palindrome Number.dll
+C:\Users\junio\OneDrive\Escritorio\Carpenter\Projects\Csharp\Console\Exercises\33-Palindrome Number\33-Palindrome Number\bin\Debug\net7.0\33-Palindrome Number.exe
+C:\Users\junio\OneDrive\Escritorio\Carpenter\Projects\Csharp\Console\Exercises\33-Palindrome Number\33-Palindrome Number\bin\Debug\net7.0\33-Palindrome Number.deps.json
+C:\Users\junio\OneDrive\Escritorio\Carpenter\Projects\Csharp\Console\Exercises\33-Palindrome Number\33-Palindrome Number\bin\Debug\net7.0\33-Palindrome Number.runtimeconfig.json
+C:\Users\junio\OneDrive\Escritorio\Carpenter\Projects\Csharp\Console\Exercises\33-Palindrome Number\33-Palindrome Number\bin\Debug\net7.0\33-Palindrome Number.dll
+C:\Users\junio\OneDrive\Escritorio\Carpenter\Projects\Csharp\Console\Exercises\33-Palindrome Number\33-Palindrome Number\bin\Debug\net7.0\33-Palindrome Number.pdb
+C:\Users\junio\OneDrive\Escritorio\Carpenter\Projects\Csharp\Console\Exercises\33-Palindrome Number\33-Palindrome Number\obj\Debug\net7.0\33-Palindrome Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Escritorio\Carpenter\Projects\Csharp\Console\Exercises\33-Palindrome Number\33-Palindrome Number\obj\Debug\net7.0\33-Palindrome Number.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Escritorio\Carpenter\Projects\Csharp\Console\Exercises\33-Palindrome Number\33-Palindrome Number\obj\Debug\net7.0\33-Palindrome Number.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Escritorio\Carpenter\Projects\Csharp\Console\Exercises\33-Palindrome Number\33-Palindrome Number\obj\Debug\net7.0\33-Palindrome Number.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Escritorio\Carpenter\Projects\Csharp\Console\Exercises\33-Palindrome Number\33-Palindrome Number\obj\Debug\net7.0\33-Palindrome Number.dll
+C:\Users\junio\OneDrive\Escritorio\Carpenter\Projects\Csharp\Console\Exercises\33-Palindrome Number\33-Palindrome Number\obj\Debug\net7.0\refint\33-Palindrome Number.dll
+C:\Users\junio\OneDrive\Escritorio\Carpenter\Projects\Csharp\Console\Exercises\33-Palindrome Number\33-Palindrome Number\obj\Debug\net7.0\33-Palindrome Number.pdb
+C:\Users\junio\OneDrive\Escritorio\Carpenter\Projects\Csharp\Console\Exercises\33-Palindrome Number\33-Palindrome Number\obj\Debug\net7.0\33-Palindrome Number.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Escritorio\Carpenter\Projects\Csharp\Console\Exercises\33-Palindrome Number\33-Palindrome Number\obj\Debug\net7.0\ref\33-Palindrome Number.dll

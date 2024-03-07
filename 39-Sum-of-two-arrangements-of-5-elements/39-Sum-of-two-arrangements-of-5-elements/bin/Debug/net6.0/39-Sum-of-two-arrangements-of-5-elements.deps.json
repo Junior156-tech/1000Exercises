@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "39-Sum-of-two-arrangements-of-5-elements/1.0.0": {
+        "runtime": {
+          "39-Sum-of-two-arrangements-of-5-elements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "39-Sum-of-two-arrangements-of-5-elements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

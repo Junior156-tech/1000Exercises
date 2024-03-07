@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\38-Delete-An-Element-Into-Arrangment\38-Delete-An-Element-Into-Arrangment\bin\Debug\net6.0\38-Delete-An-Element-Into-Arrangment.exe
+C:\Users\junio\source\repos\38-Delete-An-Element-Into-Arrangment\38-Delete-An-Element-Into-Arrangment\bin\Debug\net6.0\38-Delete-An-Element-Into-Arrangment.deps.json
+C:\Users\junio\source\repos\38-Delete-An-Element-Into-Arrangment\38-Delete-An-Element-Into-Arrangment\bin\Debug\net6.0\38-Delete-An-Element-Into-Arrangment.runtimeconfig.json
+C:\Users\junio\source\repos\38-Delete-An-Element-Into-Arrangment\38-Delete-An-Element-Into-Arrangment\bin\Debug\net6.0\38-Delete-An-Element-Into-Arrangment.dll
+C:\Users\junio\source\repos\38-Delete-An-Element-Into-Arrangment\38-Delete-An-Element-Into-Arrangment\bin\Debug\net6.0\38-Delete-An-Element-Into-Arrangment.pdb
+C:\Users\junio\source\repos\38-Delete-An-Element-Into-Arrangment\38-Delete-An-Element-Into-Arrangment\obj\Debug\net6.0\38-Delete-An-Element-Into-Arrangment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\38-Delete-An-Element-Into-Arrangment\38-Delete-An-Element-Into-Arrangment\obj\Debug\net6.0\38-Delete-An-Element-Into-Arrangment.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\38-Delete-An-Element-Into-Arrangment\38-Delete-An-Element-Into-Arrangment\obj\Debug\net6.0\38-Delete-An-Element-Into-Arrangment.AssemblyInfo.cs
+C:\Users\junio\source\repos\38-Delete-An-Element-Into-Arrangment\38-Delete-An-Element-Into-Arrangment\obj\Debug\net6.0\38-Delete-An-Element-Into-Arrangment.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\38-Delete-An-Element-Into-Arrangment\38-Delete-An-Element-Into-Arrangment\obj\Debug\net6.0\38-Delete-An-Element-Into-Arrangment.dll
+C:\Users\junio\source\repos\38-Delete-An-Element-Into-Arrangment\38-Delete-An-Element-Into-Arrangment\obj\Debug\net6.0\refint\38-Delete-An-Element-Into-Arrangment.dll
+C:\Users\junio\source\repos\38-Delete-An-Element-Into-Arrangment\38-Delete-An-Element-Into-Arrangment\obj\Debug\net6.0\38-Delete-An-Element-Into-Arrangment.pdb
+C:\Users\junio\source\repos\38-Delete-An-Element-Into-Arrangment\38-Delete-An-Element-Into-Arrangment\obj\Debug\net6.0\38-Delete-An-Element-Into-Arrangment.genruntimeconfig.cache
+C:\Users\junio\source\repos\38-Delete-An-Element-Into-Arrangment\38-Delete-An-Element-Into-Arrangment\obj\Debug\net6.0\ref\38-Delete-An-Element-Into-Arrangment.dll

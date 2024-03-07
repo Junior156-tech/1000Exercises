@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\37- Valid Parentheses\37- Valid Parentheses\bin\Debug\net6.0\37- Valid Parentheses.exe
+C:\Users\junio\source\repos\37- Valid Parentheses\37- Valid Parentheses\bin\Debug\net6.0\37- Valid Parentheses.deps.json
+C:\Users\junio\source\repos\37- Valid Parentheses\37- Valid Parentheses\bin\Debug\net6.0\37- Valid Parentheses.runtimeconfig.json
+C:\Users\junio\source\repos\37- Valid Parentheses\37- Valid Parentheses\bin\Debug\net6.0\37- Valid Parentheses.dll
+C:\Users\junio\source\repos\37- Valid Parentheses\37- Valid Parentheses\bin\Debug\net6.0\37- Valid Parentheses.pdb
+C:\Users\junio\source\repos\37- Valid Parentheses\37- Valid Parentheses\obj\Debug\net6.0\37- Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\37- Valid Parentheses\37- Valid Parentheses\obj\Debug\net6.0\37- Valid Parentheses.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\37- Valid Parentheses\37- Valid Parentheses\obj\Debug\net6.0\37- Valid Parentheses.AssemblyInfo.cs
+C:\Users\junio\source\repos\37- Valid Parentheses\37- Valid Parentheses\obj\Debug\net6.0\37- Valid Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\37- Valid Parentheses\37- Valid Parentheses\obj\Debug\net6.0\37- Valid Parentheses.dll
+C:\Users\junio\source\repos\37- Valid Parentheses\37- Valid Parentheses\obj\Debug\net6.0\refint\37- Valid Parentheses.dll
+C:\Users\junio\source\repos\37- Valid Parentheses\37- Valid Parentheses\obj\Debug\net6.0\37- Valid Parentheses.pdb
+C:\Users\junio\source\repos\37- Valid Parentheses\37- Valid Parentheses\obj\Debug\net6.0\37- Valid Parentheses.genruntimeconfig.cache
+C:\Users\junio\source\repos\37- Valid Parentheses\37- Valid Parentheses\obj\Debug\net6.0\ref\37- Valid Parentheses.dll

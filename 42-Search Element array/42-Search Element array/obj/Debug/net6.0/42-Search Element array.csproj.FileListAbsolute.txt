@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\42-Search Element array\42-Search Element array\bin\Debug\net6.0\42-Search Element array.exe
+C:\Users\junio\source\repos\42-Search Element array\42-Search Element array\bin\Debug\net6.0\42-Search Element array.deps.json
+C:\Users\junio\source\repos\42-Search Element array\42-Search Element array\bin\Debug\net6.0\42-Search Element array.runtimeconfig.json
+C:\Users\junio\source\repos\42-Search Element array\42-Search Element array\bin\Debug\net6.0\42-Search Element array.dll
+C:\Users\junio\source\repos\42-Search Element array\42-Search Element array\bin\Debug\net6.0\42-Search Element array.pdb
+C:\Users\junio\source\repos\42-Search Element array\42-Search Element array\obj\Debug\net6.0\42-Search Element array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\42-Search Element array\42-Search Element array\obj\Debug\net6.0\42-Search Element array.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\42-Search Element array\42-Search Element array\obj\Debug\net6.0\42-Search Element array.AssemblyInfo.cs
+C:\Users\junio\source\repos\42-Search Element array\42-Search Element array\obj\Debug\net6.0\42-Search Element array.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\42-Search Element array\42-Search Element array\obj\Debug\net6.0\42-Search Element array.dll
+C:\Users\junio\source\repos\42-Search Element array\42-Search Element array\obj\Debug\net6.0\refint\42-Search Element array.dll
+C:\Users\junio\source\repos\42-Search Element array\42-Search Element array\obj\Debug\net6.0\42-Search Element array.pdb
+C:\Users\junio\source\repos\42-Search Element array\42-Search Element array\obj\Debug\net6.0\42-Search Element array.genruntimeconfig.cache
+C:\Users\junio\source\repos\42-Search Element array\42-Search Element array\obj\Debug\net6.0\ref\42-Search Element array.dll
